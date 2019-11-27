@@ -5,6 +5,9 @@ body {
 
 header {
     height: 30%;
+    background-image: url(assets/background.jpg);
+    background-repeat: repeat-x;
+    background-size: 300px 300px;
 }
 
 h1 {
